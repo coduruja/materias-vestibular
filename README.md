@@ -105,9 +105,9 @@ Quer colaborar?
 ---
 ## **👤 Autor**
 
-Feito com 💡 e dedicação por [@codoruja](https://github.com/codoruja)
+Feito com 💡 e dedicação por [@coduruja](https://github.com/coduruja)
 Para ajudar estudantes a vencer o vestibular com organização e autonomia.
 
 ---
 
-> 📬 Dúvidas? Sugestões? Sinta-se à vontade para abrir uma [issue](https://github.com/codoruja/materias-vestibular/issues)
+> 📬 Dúvidas? Sugestões? Sinta-se à vontade para abrir uma [issue](https://github.com/coduruja/materias-vestibular/issues)
