@@ -1,0 +1,16 @@
+---
+tags:
+  - VEST
+  - ENG
+---
+- EXP. [[Explicit Information]]
+- INF. [[Inference and Implicit Meaning]]
+- COH. [[Coherence and Cohesion]]
+- PURP. [[Purpose and Intention]]
+- ARG. [[Argument Structure]]
+- EFS. [[Effects of Meaning (irony, humor, ambiguity)]]
+- COMP. [[Intertextual and Multimodal Comparison]]
+- VOC. [[Vocabulary in Context]]
+- DISC. [[Discourse and Ideology]]
+- INTD. [[Interdisciplinary Reading]]
+- VAR. [[Language Variation]]

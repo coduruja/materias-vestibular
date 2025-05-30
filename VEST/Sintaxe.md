@@ -1,0 +1,14 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_SYN
+---
+- FUNC. [[Funções sintáticas]]
+- COMP. [[Construção do período (simples e composto)]]
+- AGR. [[Concordância nominal e verbal]]
+- REG. [[Regência verbal e nominal]]
+- CPR. [[Colocação pronominal]]
+- COE. [[Coesão sintática]]
+- PONT. [[Pontuação com função sintática]]

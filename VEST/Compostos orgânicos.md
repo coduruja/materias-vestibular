@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - QUI
+  - ORG
+---
+- FORM. [[Representações estruturais, isomeria]]
+- FUNC. [[Funções orgânicas (hidr., alcoóis, éteres etc.)]]
+- NOM. [[Nomenclatura, propriedades, obtenção]]
+- BIOQ. [[Compostos biológicos (carboidratos, lipídeos, enzimas)]]
+- POL. [[Polímeros]]

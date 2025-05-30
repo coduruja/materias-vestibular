@@ -1,0 +1,13 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_PHO
+---
+- SEG. [[Segmentos fonêmicos]]
+- COMB. [[Combinações fonêmicas fixas]]
+- ACEN. [[Acentos tônicos e classificação]]
+- PRD. [[Prosódia normativa]]
+- ORT. [[Ortoépia]]
+- PRC. [[Processo fonológicos]]

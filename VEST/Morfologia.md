@@ -1,0 +1,12 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_MOR
+---
+- ESTR. [[Estrutura do vocábulo]]
+- FRM. [[Formação de palavras]]
+- FLX. [[Flexão nominal e verbal]]
+- CLS. [[Classes gramaticais]]
+- SEM. [[Valor semântico e estilístico dos morfemas]]

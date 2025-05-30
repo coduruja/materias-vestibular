@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - BIO
+  - ECO
+---
+- FLUX. [[Fluxos de energia e matéria]]
+- EPC. [[Ecossistemas, populações e comunidades]]
+- INT. [[Interações ecológicas]]
+- PROB. [[Problemas ambientais contemporâneos]]
+- CNSRV. [[Conservação e preservação ambiental]]

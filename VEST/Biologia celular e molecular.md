@@ -1,0 +1,13 @@
+---
+tags:
+  - VEST
+  - BIO
+  - CEL
+---
+- BIOQ. [[Componentes bioquímicos da célula]]
+- ESTR. [[Estrutura celular (procariontes e eucariontes)]]
+- ORG. [[Organelas (vegetais e animais)]]
+- TRON. [[Células-tronco]]
+- CICL. [[Ciclo celular]]
+- MIT. [[Mitose]]
+- MEI. [[Meiose]]

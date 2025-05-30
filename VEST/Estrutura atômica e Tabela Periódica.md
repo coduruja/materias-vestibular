@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - QUI
+  - ATOM
+---
+- SUB. [[Subpartículas]]
+- DIST. [[Distribuição eletrônica]]
+- NUM. [[Número atômico e massa]]
+- TAB. [[Propriedades periódicas e posição na tabela]]
+- RAD. [[Radioatividade, radioisótopos e decaimento]]

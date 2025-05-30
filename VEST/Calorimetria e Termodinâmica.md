@@ -1,0 +1,13 @@
+---
+tags:
+  - VEST
+  - PHY
+  - TERM
+---
+- TEMP. [[Temperatura e equilíbrio térmico]]
+- LEI0. [[Lei Zero da Termodinâmica]]
+- LEI1. [[Primeira Lei da Termodinâmica]]
+- CAL. [[Trocas de calor e propriedades térmicas]]
+- GAS. [[Gases perfeitos]]
+- TRAB. [[Trabalho de um gás]]
+- FASE. [[Mudanças de fase e calor latente]]

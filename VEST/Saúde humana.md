@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - BIO
+  - SAUD
+---
+- CONC. [[Conceito de saúde]]
+- SIST. [[Sistemas do corpo humano]]
+- REPR. [[Reprodução humana, contracepção e DSTs]]
+- SAN. [[Saneamento e saúde pública]]
+- INFEC. [[Doenças causadas por microrganismos e vetores]]

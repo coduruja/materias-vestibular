@@ -1,0 +1,32 @@
+---
+tags:
+  - VEST
+  - FIL
+---
+- ETI. [[Fundamentos da ética]]
+	- VIRT. Virtude e moral clássica
+	- DEVR. Dever e autonomia
+	- CONS. Consciência e juízo moral
+	- EDU. Educação e sentimento moral
+	- FEL. Felicidade e realização ética
+	- JUST. Visão ética de justiça
+	- DIGN. Dignidade, responsabilidade e respeito
+	- DIAL. Diálogo e princípio racional
+	- UNIV. Universalismo e relativismo
+- POL. [[Fundamentos da política]]
+	- DEMO. Democracia e formas de governo
+	- IDEO. Liberalismo, republicanismo, marxismo
+	- AUTO. Autoritarismo e totalitarismo
+	- CONT. Contrato social
+	- JUST. Visão política de justiça
+	- RECO. Reconhecimento e tolerância
+	- CID. Cidadania e pluralidade
+	- DH. Direitos humanos
+	- POW. Poder e violência
+	- EDU. Educação e participação político
+	- REP. Representação e soberania
+	- IDNT. Identidade de Gênero, raça, classe e etnia
+  - ETIPOL. [[Relação entre política e ética]]
+	  - DILE. Dilemas ético-políticos
+	  - LEG. Justiça, legalidade e legitimidade do poder
+	  - LEI. Ética pública, valores na política, moralidade das leis

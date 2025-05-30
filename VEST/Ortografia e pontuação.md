@@ -1,0 +1,13 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_ORT
+---
+- ACEN. [[Acentuação gráfica]]
+- HIF. [[Uso do hífen]]
+- GRAF. [[Grafia oficial e consoantes problemáticas]]
+- ABRV. [[Abreviaturas, siglas e símbolos]]
+- MAIU. [[Uso de maiúsculas e minúsculas]]
+- PONT. [[Pontuação]]

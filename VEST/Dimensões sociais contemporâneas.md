@@ -1,0 +1,12 @@
+---
+tags:
+  - VEST
+  - SOC
+  - SDIM
+---
+- TEC. [[Trabalho, emprego e tecnologia]]
+- MAMB. [[Sociedade, natureza e sustentabilidade]]
+- CONS. [[Produção, consumo e impactos]]
+- CULT. [[Cultura de massa e mídias]]
+- MARG. [[Grupos historicamente marginalizados]]
+- VIOL. [[Violência e sociedade]]

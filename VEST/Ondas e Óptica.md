@@ -1,0 +1,15 @@
+---
+tags:
+  - VEST
+  - PHY
+  - OND
+---
+- PLA. [[Ondas planas (λ, f, v)]]
+- MEC. [[Ondas mecânicas (corda, som)]]
+- INTF. [[Interferência, difração e polarização]]
+- ESF. [[Ondas esféricas]]
+- ESP. [[Espelhos (planos e esféricos)]]
+- REF. [[Refração e dispersão da luz]]
+- LNT. [[Lentes e instrumentos ópticos]]
+- LUZ. [[Natureza ondulatória da luz e espectro]]
+- VIS. [[Óptica da visão]]

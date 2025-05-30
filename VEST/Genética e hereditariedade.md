@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - BIO
+  - GEN
+---
+- DNA. [[Material genético (DNA e RNA)]]
+- COD. [[Código genético e síntese de proteínas]]
+- MEND. [[Leis de Mendel e padrões de herança]]
+- BTEC. [[Manipulação genética e biotecnologia]]
+- DOEN. [[Doenças genéticas e saúde]]

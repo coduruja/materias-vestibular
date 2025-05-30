@@ -1,0 +1,12 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_EST
+---
+- FIG. [[ Figuras de linguagem]]
+- REG. [[ Registro e adequação]]
+- RIT. [[Ritmo e repetição]]
+- TON. [[Tom e atitude do autor]]
+- ESTL. [[Escolhas léxicas e estilo de expressão]]

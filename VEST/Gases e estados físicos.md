@@ -1,0 +1,16 @@
+---
+tags:
+  - VEST
+  - QUI
+  - GAS
+---
+- EQUA. [[Equação geral dos gases, leis de Boyle e Gay-Lussac]]
+- AVOG. [[Princípio de Avogadro]]
+- CIN. [[Teoria cinética dos gases]]
+- DALT. [[Misturas gasosas e lei de Dalton]]
+- DIF. [[Difusão, gases reais, liquefação]]
+- LIQ. [[Características dos líquidos e sólidos]]
+- PVAP. [[Pressão de vapor e mudanças de estado]]
+- ELET. [[Soluções eletrolíticas e não eletrolíticas]]
+- CONC. [[Cálculo de concentrações]]
+- COL. [[Estado coloidal]]

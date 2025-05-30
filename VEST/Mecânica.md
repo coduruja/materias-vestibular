@@ -1,0 +1,16 @@
+---
+tags:
+  - VEST
+  - PHY
+  - MEC
+---
+- CIN. [[Cinemática (1D e 2D)]]
+- NEW. [[Leis de Newton]]
+- ATR. [[Força de atrito]]
+- PESO. [[Peso e gravidade]]
+- TORQ. [[Torque e equilíbrio]]
+- GRAV. [[Lei da gravitação e leis de Kepler]]
+- QMOV. [[Quantidade de movimento]]
+- ENER. [[Energia cinética e potencial]]
+- POT. [[Potência]]
+- HIDR. [[Hidrostática]]

@@ -1,0 +1,18 @@
+---
+tags:
+  - VEST
+  - FIL
+  - POL
+---
+- DEMO. [[Democracia e formas de governo]]
+- IDEO. [[Liberalismo, republicanismo, marxismo]]
+- AUTO. [[Autoritarismo e totalitarismo]]
+- CONT. [[Contrato social]]
+- JUST. [[Visão política de justiça]]
+- RECO. [[Reconhecimento e tolerância]]
+- CID. [[Cidadania e pluralidade]]
+- DH. [[Direitos humanos]]
+- POW. [[Poder e violência]]
+- EDU. [[Educação e participação político]]
+- REP. [[Representação e soberania]]
+- IDNT. [[Identidade de Gênero, raça, classe e etnia]]

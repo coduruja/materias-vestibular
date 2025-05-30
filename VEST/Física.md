@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - PHY
+---
+- PHYF. [[Fundamentos da Física]]
+- MEC. [[Mecânica]]
+- ASTRO. [[Astronomia]]
+- TERM. [[Calorimetria e Termodinâmica]]
+- OND. [[Ondas e Óptica]]
+- ELET. [[Eletricidade e Magnetismo]]

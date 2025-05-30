@@ -1,0 +1,21 @@
+---
+tags:
+  - VEST
+  - HIS
+  - HCON
+---
+- ENAC. [[Formação dos Estados-nacionais]]
+- BURG. [[Formação do estado burguês]]
+- TRAB. [[Mundo do trabalho e industrialização]]
+- CUL19. [[Cultura e política no século XIX]]
+- AFRO. [[África e o imperialismo europeu]]
+- BR19. [[Brasil no século XIX (1808–1889)]]
+- IAME. [[Intelectuais e imprensa nas Américas]]
+- ESCRV. [[Escravidão e tráfico atlântico]]
+- REP1. [[República no Brasil até 1930]]
+- REP2. [[Brasil entre 1930–1945]]
+- REV20. [[Revoluções do século XX (México, Rússia, China, Cuba)]]
+- CR29. [[Crise de 1929 e do liberalismo]]
+- FASC. [[Fascismos e regimes totalitários]]
+- WAR. [[Guerras mundiais e mundo bipolar]]
+- POPL. [[Populismos na América Latina e Europa]]

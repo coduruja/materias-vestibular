@@ -1,0 +1,14 @@
+---
+tags:
+  - VEST
+  - PHY
+  - ELET
+---
+- CAMP. [[Campo e força eletrostática]]
+- POT. [[Potencial e diferença de potencial]]
+- RES. [[Corrente elétrica, resistores e potência]]
+- KIRCH. [[Leis de Kirchhoff e FEM]]
+- CAP. [[Capacitores e dielétricos]]
+- MAG. [[Campo magnético (ímãs e correntes)]]
+- FORC. [[Força magnética sobre cargas]]
+- INDU. [[Indução eletromagnética]]

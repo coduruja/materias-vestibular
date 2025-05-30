@@ -1,0 +1,16 @@
+---
+tags:
+  - VEST
+  - BIO
+---
+- CEL. [[Biologia celular e molecular]]
+- GEN. [[Genética e hereditariedade]]
+- EVO. [[Origem e evolução da vida]]
+- ECO. [[Ecologia e meio ambiente]]
+- BDIV. [[Biodiversidade]]
+- SAUD. [[Saúde humana]]
+	- CONC. Conceito de saúde
+	- SIST. Sistemas do corpo humano
+	- REPR. Reprodução humana, contracepção e DSTs
+	- SAN. Saneamento e saúde pública
+	- INFEC. Doenças causadas por microrganismos e vetores

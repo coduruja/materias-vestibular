@@ -1,0 +1,12 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+---
+- PHO. [[Fonética e Fonologia]]
+- ORT. [[Ortografia e pontuação]]
+- MOR. [[Morfologia]]
+- SYN. [[Sintaxe]]
+- SEM. [[Semântica]]
+- EST. [[Estilística]]

@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - QUI
+  - EQUI
+---
+- SIS. [[Sistemas em equilíbrio ]]
+- KEQ. [[Constante de equilíbrio]]
+- CHAT. [[Princípio de Le Chatelier]]
+- ACID. [[Conceitos de ácido-base (Arrhenius, Brønsted, Lewis)]]
+- PH. [[pH, hidrólise, solubilidade, equilíbrio ácido-base]]

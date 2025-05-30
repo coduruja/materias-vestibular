@@ -1,0 +1,461 @@
+---
+tags:
+  - vest
+---
+# POR. [[Português]]
+- INT. Interpretação textual
+	- EXP. Informações explicita
+	- INF. Inferência contextual
+	- COE. Coerência e coesão
+	- PROP. Propósito comunicativo
+	- ARG. Argumentação
+	- EFS. Efeitos de sentido (ironia, humor, ambiguidade)
+	- COMP. Comparação intertextual ou multimodal
+	- VOC. Inferência de vocabulário
+	- DIS. Discurso e ideologia
+	- LID. Interdisciplinaridade
+	- VAR. Variação linguística
+- GRAM. Gramática geral
+	- PHO. Fonética / fonologia
+		-  SEG. Segmentos fonêmicos
+		- COMB. Combinações fonêmicas fixas
+		- ACEN. Acentos tônicos e classificação
+		- PRD. Prosódia normativa
+		- ORT. Ortoépia
+		- PRC. Processo fonológicos
+	- ORT. Ortografia e pontuação
+		- ACEN. Acentuação gráfica
+		- HIF. Uso do hífen
+		- GRAF. Grafia oficial e consoantes problemáticas
+		- ABRV. Abreviaturas, siglas e símbolos
+		- MAIU. Uso de maiúsculas e minúsculas
+		- PONT. Pontuação
+	- MOR. Morfologia
+		- ESTR. Estrutura do vocábulo
+		- FRM. Formação de palavras
+		- FLX. Flexão nominal e verbal
+		- CLS. Classes gramaticais
+		- SEM. Valor semântico e estilístico dos morfemas
+	- SYN. Sintaxe
+		- FUNC. Funções sintáticas
+		- COMP. Construção do período (simples e composto)
+		- AGR. Concordância nominal e verbal
+		- REG. Regência verbal e nominal
+		- CPR. Colocação pronominal
+		- COE. Coesão sintática
+		- PONT. Pontuação com função sintática
+	- SEM. Semântica
+		- LEX. Relações lexicais 
+		- CONC. Conceitos semânticos gerais 
+		- FIG. Sentido figurado
+		- MOD. Modalização
+		- VAL. Valor semântico
+		- VAR. Variação semântica contextual
+	- EST. Estilística
+		- FIG.  Figuras de linguagem
+		- REG. Registro e adequação
+		- RIT. Ritmo e repetição
+		- TON. Tom e atitude do autor
+		- ESTL. Escolhas léxicas e estilo de expressão
+- LIT. Literatura
+	- OBR.  Obras obrigatórias (Unicamp)
+		- paes. Prosa seguida de odes mínimas – José Paulo Paes
+		- cartola. Canções Selecionadas – Cartola
+		- morangos. Morangos Mofados – Caio Fernando Abreu
+		- olhos. Olhos d’água – Conceição Evaristo
+		- gonzaga. Vida e morte de M.J. Gonzaga de Sá - Lima Barreto
+		- niketche. Niketche – Uma história de poligamia - PaulinChiziane
+		- casavelha. Casa Velha - Machado de Assis
+		- alice. Alice no país das maravilhas - Lewis Carroll
+		- krenak. A vida não é útil - Ailton Krenak
+	- MOV. Movimentos literários e escolas
+	- REC. Recursos literários e linguagem poética
+	- GEN. Gêneros e formas literárias
+- RED. Produção de textual e redação
+	- STR. Estrutura do texto dissertativo-argumentativo
+	- ARG. Argumentação e progressão textual
+	- COE. Coesão e coerência textual
+	- LING. Domínio da norma culta e estilo
+	- PROP. Proposta de intervenção
+	- GEN. Gêneros textuais e adequação comunicativa
+# MAT. [[Matemática]]
+- CON. Conjuntos numéricos
+	- REP. Representação de conjuntos e subconjuntos
+	- NAT. Números naturais e inteiros
+	- PRI. Números primos, fatoração
+	- REAL. Números racionais e irracionais
+	- SEQ.  Sequências numéricas
+	- POR. Porcentagem e juros
+- FUN. Funções e gráficos
+	- LIN. Função linear
+	- QUAD. Função quadrática
+	- BAS. Funções básicas (inversas, raízes, módulo)
+	- EXP. Potências e radicais
+	- RAC. Funções racionais
+	- TRIG. Funções trigonométricas
+	- EQ. Equações e inequações com funções
+	- TRA. Transformações e composições
+	- INV. Funções inversas
+- PLNM. Polinômios
+	- OP. Operações com polinômios
+	- RAI. Raízes reais e complexas
+	- FAT. Fatoração e multiplicidade de raízes
+- PROB. Contagem e probabilidade
+	- POM. Princípio da casa dos pombos
+	- PRI. Princípios de contagem
+	- ACP. Arranjos, combinações e permutações
+	- ESP. Espaço amostral e conceito de probabilidade
+	- ENVT. União e interseção de eventos
+	- COND. Probabilidade condicional
+- SIS. Sistemas lineares
+	- REL. Resolução de sistemas lineares
+	- DIS. Discussão de sistemas lineares
+- GP. Geometria plana
+	- CFIG. Congruência de figuras geométricas
+	- CTRI. Congruência de triângulos
+	-  TAL. Paralelas e transversais (Teorema de Tales)
+	-  STRI. Semelhança de triângulos
+	-  PIT. Triângulos retângulos (Teorema de Pitágoras)
+	-  MET. Relações métricas nos triângulos
+	-  QUAD. Quadriláteros notáveis
+	-  POLG. Polígonos regulares
+	-  CIRC. Circunferência e círculo
+	-  INS. Inscrição e circunscrição
+- GE. Geometria espacial
+	- POS. Posições relativas (retas e planos)
+	- POL. Poliedros e elementos
+	- PRI. Prismas
+	- PIR. Pirâmides
+	- CIL. Cilindros
+	- CON. Cones
+	- ESF. Esferas
+- TRI. Trigonometria
+	- UNI. Medidas de ângulos (graus e radianos
+	- IDE. Identidades trigonométricas fundamentais
+	- TRF. Transformações trigonométricas
+	- EQU. Equações trigonométricas
+	- INQ. Inequações trigonométricas
+	- LEI. Lei dos senos e dos cossenos
+- GA. Geometria analítica.
+	- CPL. Coordenadas no plano
+	- CES. Coordenadas no espaço
+	- DPL. Distância entre pontos no plano
+	- DES. Distância entre pontos no espaço
+	- ALI. Alinhamento de pontos
+	- RET. Equação da reta
+	- POS. Posições relativas entre elementos
+	- DIS. Distância ponto–reta
+- LOG. Logaritmos e exponenciais.
+	- POT. Potências e propriedades
+	- EXP. Função exponencial e gráfico
+	- DEF. Definição de logaritmos
+	- FUN. Função logarítmica e gráfico
+	- EQ. Equações e inequações
+# GEO. [[Geografia]]
+- GFUN. Conceitos fundamentais
+	- BAS. Conceitos-base da Geografia
+	- ORG. Organização e estruturação do espaço
+- CART. Cartografia e Geotecnologias
+	- ORI. Orientação geográfica e coordenadas
+	- MAP. Elementos dos mapas
+	- PROJ. Projeções cartográficas
+	- ESC. Escala cartográfica e geográfica
+	- TEM. Mapas e cartas temáticas
+- NAT. Os componentes físico-naturais do espaço geográfico
+	- REL. Relevo e estrutura da Terra
+	- SOL. Solos e suas transformações
+	- CLI. Clima e dinâmica atmosférica
+	- HID. Hidrosfera e recursos hídricos
+	- CRI. Criosfera e mudanças globais
+	- BIO. Biomas, domínios naturais e conservação
+	- AMB. Impactos ambientais e gestão
+- MUN. Geografia Mundial e Globalização
+	-  PLT. Organização político-territorial
+		- REGI. Escalas e regionalização
+		- GLOB. Globalização
+		- GEO_PLT. Geopolítica e geoeconomia
+		- CNFL. Conflitos
+		- ORG. Organizações multilaterais
+		- ENER. Energia e recursos
+	- SOECO. Dimensões sociais e econômicas
+		- DEMO. População
+		- URB. Urbanização
+		- PROD. Produção
+		- COME. Comércio
+		- TRAB. Mundo do trabalho
+		- REDE. Redes globais
+		- ETNC. Gênero e raça
+		- ALIM. Segurança alimentar
+- BR. Brasil
+	- BRPOL. A organização político territorial do Brasil.
+		- FORM. Formação e povoamento
+		- IGLOB. Inserção global
+		- GST. Planejamento e gestão
+		- REGI. Regionalização
+		- EST. Estrutura do Estado
+	- BRECO. Economia, sociedade e território
+		- IND. Indústria e finanças
+		- AGRO. Agropecuária
+		- DES. Desenvolvimento e renda
+		- COM. Comércio Brasileiro
+		- DIVT. Divisão territorial
+		- LOGI. Logística e redes
+		- MAR. Espaço marítimo
+		- POP. Populações e disputas
+		- MAMB. Meio ambiente
+	- BRURB. Urbanização e estrutura urbana
+		- PRO. Processo de Urbanização brasileira
+		- MIGR. Migrações
+		- HIE. Hierarquias e redes
+		- METR. Cidades médias e metrópoles
+		- GST. Centros de gestão
+		- ESP. Especializações urbanas
+		- PLT. Política urbana
+		- VIO. Segregação e violência
+		- MOV. Movimentos sociais
+# HIS. [[História]]
+- HANT. Antiguidade Clássica]
+	- GRE. Grécia
+	- ROM. Roma
+- HMED. Período Medieval
+	- SOC. Cultura e sociedades no medieval
+	- CRI. Crise do feudalismo
+- HMOD. Período Moderno
+	- REN. Renascimento e Reformas
+	- STMD. Estado Moderno
+	- ABS. Absolutismo
+	- EXP. Expansão marítima europeia
+	- COL. Colonização das Américas
+	- INDG. Indígenas
+	- AFRO. Africanos no mundo colonial
+	- ILU. Iluminismo
+	- REV. Revoluções atlânticas
+	- CRI. Crise do Antigo Regime
+- HCON. Período Contemporâneo
+	- ENAC. Formação dos Estados-nacionais
+	- BURG. Estado burguês e revoluções do século XIX
+	- TRAB. Mundo do trabalho e industrialização
+	- CUL19. Cultura e política no século XIX
+	- AFRO. África e o imperialismo europeu
+	- BR19. Brasil no século XIX (1808–1889)
+	- IAME. Intelectuais e imprensa nas Américas
+	- ESCRV. Escravidão e tráfico atlântico
+	- REP1. República no Brasil até 1930
+	- REP2. Brasil entre 1930–1945
+	- REV20. Revoluções do século XX (México, Rússia, China, Cuba)
+	- CR29. Crise de 1929 e do liberalismo
+	- FASC. Fascismos e regimes totalitários
+	- WAR. Guerras mundiais e mundo bipolar
+	- POPL. Populismos na América Latina e Europa
+- HPRE. História do tempo presente
+	- DCOL. Descolonização na África e na Ásia
+	- DIT. Ditadura civil-militar no Brasil (1964–1985)
+	- POS85. Brasil após 1985
+	- AMLAT. América Latina
+	- NORD. Nova ordem mundial
+	- GLOB. Globalização
+	- FEM. Protagonismo feminino
+	- MULT. debates multiculturais
+	- AMB. Agendas ambientais e transformações no século XXI
+# SOC. [[Sociologia]]
+- SFUN. Conceitos fundamentais da vida social
+	- IND. Indivíduo e socialização
+	- DIF. Diferença e desigualdade
+	- POW. Cultura, poder e democracia
+	- TRAB. Trabalho como estrutura social
+- SDIM. Dimensões sociais contemporâneas
+	- TRAB. Trabalho e tecnologia
+	- MAMB. Sociedade, natureza e sustentabilidade
+	- CONS. Produção, consumo e impactos
+	- CULT. Cultura de massa e mídias
+	- MARG. Grupos historicamente marginalizados
+	- VIOL. Violência e sociedade
+# FIL. [[Filosofía]].
+- ETI. Fundamentos da ética
+	- VIRT. Virtude e moral clássica
+	- DEVR. Dever e autonomia
+	- CONS. Consciência e juízo moral
+	- EDU. Educação e sentimento moral
+	- FEL. Felicidade e realização ética
+	- JUST. Justiça na ética
+	- DIGN. Dignidade, responsabilidade e respeito
+	- DIAL. Diálogo e princípio racional
+	- UNIV. Universalismo e relativismo
+- POL. Fundamentos da política
+	- DEMO. Democracia e formas de governo
+	- IDEO. Liberalismo, republicanismo, marxismo
+	- AUTO. Autoritarismo e totalitarismo
+	- CONT. Contrato social
+	- VAL. Justiça, igualdade, liberdade
+	- RECO. Reconhecimento e tolerância
+	- CID. Cidadania e pluralidade
+	- DH. Direitos humanos
+	- POW. Poder e violência
+	- EDU. Educação e participação político
+	- REP. Representação e soberania
+	- IDNT. Identidade de Gênero, raça, classe e etnia
+  - ETIPOL. Relação entre política e ética
+	  - DILE. Dilemas ético-políticos
+	  - LEG. Justiça, legalidade e legitimidade do poder
+	  - LEI. Ética, valores e moralidade das leis e política
+# ENG. [[Inglês]]
+- EXP. Explicit Information
+- INF. Inference and Implicit Meaning
+- COH. Coherence and Cohesion
+- PURP. Purpose and Intention
+- ARG. Argument Structure
+- EFS. Effects of Meaning (irony, humor, ambiguity
+- COMP. Intertextual and Multimodal Comparison
+- VOC. Vocabulary in Context
+- DISC. Discourse and Ideology
+- INTD. Interdisciplinary Reading
+- VAR. Language Variation
+# BIO. [[Biologia]].
+- CEL. Biologia celular e molecular
+	- BIOQ. Componentes bioquímicos da célula
+	- ESTR. Estrutura celular (procariontes e eucariontes)
+	- ORG. Organelas (vegetais e animais)
+	- TRON. Células-tronco
+	- CICL. Ciclo celular
+	- MIT. Mitose
+	- MEI. Meiose
+- GEN. Genética e hereditariedade
+	- DNA. Material genético (DNA e RNA)
+	- COD. Código genético e síntese de proteínas
+	- MEND. Leis de Mendel e padrões de herança
+	- BTEC. Manipulação genética e biotecnologia
+	- DOEN. Doenças genéticas e saúde
+- EVO. Origem e evolução da vida
+	- ORIG. Origem e diversificação da vida
+	- VAR. Variabilidade genética e mutações
+	- SEL. Seleção natural
+	- SPEC. Especiação
+	- IHUM. Intervenção humana na evolução
+- ECO. Ecologia e meio ambiente
+	- FLUX. Fluxos de energia e matéria
+	- EPC. Ecossistemas, populações e comunidades
+	- INT. Interações ecológicas
+	- PROB. Problemas ambientais contemporâneos
+	- CNSRV. Conservação e preservação ambiental
+- BDIV. Biodiversidade
+	- CLSS. Classificação biológica
+	- MIC. Vírus, bactérias, protístas e fungos
+	- BOT. Plantas e algas
+	- ZOO. Animais
+- SAUD. Saúde humana
+	- CONC. Conceito de saúde
+	- SIST. Sistemas do corpo humano
+	- REPR. Reprodução humana, contracepção e DSTs
+	- SAN. Saneamento e saúde pública
+	- INFEC. Doenças causadas por microrganismos e vetores
+# PHY. [[Física]]
+- PHYF. Fundamentos da Física
+	- UNID. Grandezas físicas e unidades
+	- VET. Grandezas escalares e vetoriais
+	- GRAF. Gráficos e relações funcionais
+	- ORDG. Estimativas e ordem de grandeza
+- MEC. Mecânica
+	- CIN. Cinemática (1D e 2D)
+	- NEW. Leis de Newton
+	- ATR. Força de atrito
+	- PESO. Peso e gravidade
+	- TORQ. Torque e equilíbrio
+	- GRAV. Lei da gravitação e leis de Kepler
+	- QMOV. Quantidade de movimento
+	- ENER. Energia cinética e potencial
+	- POT. Potência
+	- HIDR. Hidrostática
+- ASTRO. Astronomia
+	- TERRA. Terra: forma, estrutura, movimentos
+	- SISSOL. Sol, Terra e Lua
+	- PLAN. Planetas e órbitas
+	- UNIV. Sistema solar e universo
+	- EST. Estrelas e evolução estelar
+- TERM. Calorimetria e Termodinâmica
+	- TEMP. Temperatura e equilíbrio térmico
+	- LEI0. Lei Zero da Termodinâmica
+	- LEI1. Primeira Lei da Termodinâmica
+	- CAL. Trocas de calor e propriedades térmicas
+	- GAS. Gases perfeitos
+	- TRAB. Trabalho de um gás
+	- FASE. Mudanças de fase e calor latente
+- OND. Ondas e Óptica
+	- PLA. Ondas planas (λ, f, v)
+	- MEC. Ondas mecânicas (corda, som)
+	- INTF. Interferência, difração e polarização
+	- ESF. Ondas esféricas
+	- ESP. Espelhos (planos e esféricos)
+	- REF. Refração e dispersão da luz
+	- LNT. Lentes e instrumentos ópticos
+	- LUZ. Natureza ondulatória da luz e espectro
+	- VIS. Óptica da visão
+- ELET. Eletricidade e Magnetismo
+	- CAMP. Campo e força eletrostática
+	- POT. Potencial e diferença de potencial
+	- RES. Corrente elétrica, resistores e potência
+	- KIRCH. Leis de Kirchhoff e FEM
+	- CAP. Capacitores e dielétricos
+	- MAG. Campo magnético (ímãs e correntes)
+	- FORC. Força magnética sobre cargas
+	- INDU. Indução eletromagnética
+# QUI. [[Química]]
+- MATER. Materiais e substâncias
+	- NAT. Substâncias na natureza e processos de purificação
+	- ATM. Representação de átomos, moléculas e íons
+	- MASS. Massa atômica, molar e quantidade de substância
+- GAS. Gases e estados físico
+	- EQUA. Equação geral dos gases, leis de Boyle e Gay-Lussac
+	- AVOG.  Princípio de Avogadro
+	- CIN. Teoria cinética dos gases
+	- DALT. Misturas gasosas e lei de Dalton
+	- DIF. Difusão, gases reais, liquefação
+	- LIQ. Características dos líquidos e sólidos
+	- PVAP. Pressão de vapor e mudanças de estado
+	- ELET. Soluções eletrolíticas e não eletrolíticas
+	- CONC. Cálculo de concentrações (%, mol/L, frações)
+	- COL. Estado coloidal
+- ATOM. Estrutura atômica e Tabela Periódica
+	- SUB. Subpartículas
+	- DIST. Distribuição eletrônica
+	- NUMAT. número atômico/massa
+	- TAB. Propriedades periódicas e posição na tabela
+	- RAD. Radioatividade, radioisótopos e decaimento
+- LIG. Ligações químicas e polaridade
+	- TIPLIG. Ligações iônica, covalente e metálica
+	- POLR. Polaridade molecular (moléculas simples)
+	- FORM. Forças intermoleculares (Van der Waals, H-ligação)
+- TRANS. Transformações químicas e estequiometria
+	- BAL. Balanceamento de equações
+	- ESTEQ. Cálculos estequiométricos (massas, volumes, mols)
+- CINEQ. Cinética química
+	- REAC. Reações químicas
+	- COLIS. Colisões efetivas, energia de ativação
+	- VEL. Velocidade das reações
+	- FAT. Influência de temperatura, concentração, pressão, catalisador
+- ENTALP. Entalpia
+	- REA. Reações exotérmicas e endotérmicas
+	- HESS. Lei de Hess e entalpia de ligação
+	- CONS Conservação da energia
+- EQUI. Equilíbrio químico
+	- SIS. Sistemas em equilíbrio 
+	- KEQ. Constante de equilíbrio
+	- CHAT. Princípio de Le Chatelier
+	- ACID. Conceitos de ácido-base (Arrhenius, Brønsted, Lewis)
+	- PH. pH, hidrólise, solubilidade, equilíbrio ácido-base
+- ELTQ. Eletroquímica
+	- OXRED. Oxidação, redução, NOX
+	- PILHA. Potencial padrão de eletrodo, funcionamento de pilhas
+	- FARAD. Leis de Faraday
+	- ETRLS. Eletrólise de soluções e compostos fundidos
+- ORG. Compostos orgânicos
+	- FORM. Representações estruturais, isomeria
+	- FUNC. Funções orgânicas (hidr., alcoóis, éteres etc.)
+	- NOM. Nomenclatura, propriedades, obtenção
+	- BIOQ. Compostos biológicos (carboidratos, lipídeos, enzimas)
+	- POL.Polímeros
+- QAMB. Química ambiental
+	- RECU. Recursos naturais (crosta, atmosfera, biosfera, hidrosfera)
+	- IMPA. Impactos ambientais do uso de recursos
+
+## Log de estudos
+[[Lista de log de estudos]]

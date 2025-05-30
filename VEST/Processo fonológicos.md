@@ -1,0 +1,19 @@
+---
+tags:
+  - VEST
+  - POR
+  - GRAM
+  - GRAM_PHO
+  - PHO_PRC
+---
+- Assimilação
+- Síncope
+- Aférese
+- Apócope
+- Prótese
+- Epêntese
+- Paragoge
+- Metátese
+- Crase
+- Contração
+- Redução vocálica

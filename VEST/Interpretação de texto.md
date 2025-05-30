@@ -1,0 +1,18 @@
+---
+tags:
+  - VEST
+  - POR
+  - INT
+  - ENG
+---
+- EXP. [[Informações explicita]]
+- INF. [[Inferência contextual]]
+- COE. [[Coerência e coesão]]
+- PROP. [[Propósito comunicativo]]
+- ARG. [[Argumentação]]
+- EFS. [[Efeitos de sentido (ironia, humor, ambiguidade)]]
+- COMP. [[Comparação intertextual ou multimodal]]
+- VOC. [[Inferência de vocabulário]]
+- DIS. [[Discurso e ideologia]]
+- LID. [[Interdisciplinaridade]]
+- VAR. [[Variação linguística]]

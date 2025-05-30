@@ -1,0 +1,11 @@
+---
+tags:
+  - VEST
+  - BIO
+  - EVO
+---
+- ORIG. [[Origem e diversificação da vida]]
+- VAR. [[Variabilidade genética e mutações]]
+- NSEL. [[Seleção natural]]
+- SPEC. [[Especiação]]
+- IHUM. [[Intervenção humana na evolução]]

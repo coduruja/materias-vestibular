@@ -1,0 +1,16 @@
+---
+tags:
+  - VEST
+  - MAT
+  - GP
+---
+- CFIG. [[Congruência de figuras geométricas]]
+- CTRI. [[Congruência de triângulos]]
+-  TAL. [[Paralelas e transversais (Teorema de Tales)]]
+-  STRI. [[Semelhança de triângulos]]
+-  PIT. [[Triângulos retângulos (Teorema de Pitágoras)]]
+-  MET. [[Relações métricas nos triângulos]]
+-  QUAD. [[Quadriláteros notáveis]]
+-  POLG. [[Polígonos regulares]]
+-  CIRC. [[Circunferência e círculo]]
+-  INS. [[Inscrição e circunscrição]]

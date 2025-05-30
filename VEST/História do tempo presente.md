@@ -1,0 +1,15 @@
+---
+tags:
+  - VEST
+  - HIS
+  - HPRE
+---
+- DCOL. [[Descolonização na África e na Ásia]]
+- DIT. [[Ditadura civil-militar no Brasil (1964–1985)]]
+- POS85. [[Brasil após 1985]]
+- AMLAT. [[América Latina]]
+- NORD. [[Nova ordem mundial]]
+- GLOB. [[História da globalização]]
+- FEM. [[Protagonismo feminino]]
+- MULT. [[Debates multiculturais]]
+- AMB. [[Agendas ambientais e transformações no século XXI]]
