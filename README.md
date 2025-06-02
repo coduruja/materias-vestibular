@@ -61,7 +61,7 @@ Se você já sabe como usar git e o github ou quer aprender a usar para esse pro
 #### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/codoruja/materias-vestibular.git
+git clone https://github.com/coduruja/materias-vestibular.git
 cd materias-vestibular
 ```
 
@@ -75,7 +75,7 @@ git checkout -b minhas-anotacoes
 
 Adicione este repositório como remoto de upstream:
 ```
-git remote add upstream https://github.com/codoruja/materias-vestibular.git
+git remote add upstream https://github.com/coduruja/materias-vestibular.git
 ```
 
 Para atualizar:
